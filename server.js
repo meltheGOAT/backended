@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3500;
 const cors = require('cors');//nc
 
 const cookieParser = require("cookie-parser");
-const verifyJWT = require("../Learn express/middleware/verifyMyJWT")
+const verifyJWT = require("./middleware/verifyMyJWT");
 const mongoose = require('mongoose');
 const connectDB = require('./config/db_connect');
 
