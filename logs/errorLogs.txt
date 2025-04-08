@@ -1,0 +1,16 @@
+20250130	13:43:04	6042b72d-de89-49e6-ae3a-a1c53db8d10f	Error:	 This domain blocked by CORS
+20250203	15:07:35	9ab89757-7551-4fb9-ab83-822152d64ac2	Error:	 This domain blocked by CORS
+20250203	15:26:16	7463f59f-6869-483c-9054-4f8be4a73131	Error:	 This domain blocked by CORS
+20250203	15:26:49	22a52b7c-c0dd-479e-96aa-4daed69c3299	Error:	 This domain blocked by CORS
+20250203	15:27:07	aee53e0d-ba50-4a18-af62-fdbf6ca7bfac	Error:	 This domain blocked by CORS. Frontend cant get backend
+20250218	14:15:16	03250a36-c541-47f1-afbd-691a67842ab8	SyntaxError:	 Expected ':' after property name in JSON at position 3
+20250218	14:15:26	578d4350-533c-4752-8f51-b9fe47fcab4f	SyntaxError:	 Expected ':' after property name in JSON at position 3
+20250220	14:24:48	bd9400d2-6fa0-4542-bffa-ea50ffeecbd7	SyntaxError:	 Expected ',' or '}' after property value in JSON at position 46
+20250225	15:15:59	469d9f7b-5ac9-4092-93ee-53d6e8a6b20e	SyntaxError:	 Expected ',' or '}' after property value in JSON at position 23
+20250225	15:37:46	2b16a948-3848-4a21-92ef-c48d6576af2b	SyntaxError:	 Expected ',' or '}' after property value in JSON at position 37
+20250306	14:58:25	390ddb32-ca4c-4cf6-8e7c-7562f73da3c3	SyntaxError:	 Unexpected token '"', ""Username""... is not valid JSON
+20250324	15:47:16	c363808b-412d-4ee4-8e4c-06c5cacae75e	Error:	 This domain blocked by CORS. Frontend cant get backend
+20250324	15:51:32	279a0086-08c8-4a20-a7d8-ba2e52c17bc8	Error:	 This domain blocked by CORS. Frontend cant get backend
+20250324	15:52:41	f19cadb7-cde9-4924-9dfa-67f1e3760d95	Error:	 This domain blocked by CORS. Frontend cant get backend
+20250324	15:53:21	4b2414f2-8615-4ca2-ac76-d80ee80fde66	Error:	 This domain blocked by CORS. Frontend cant get backend
+20250407	15:38:25	1e391795-318a-475e-962b-f6f08588081d	Error:	 This domain blocked by CORS. Frontend cant get backend
